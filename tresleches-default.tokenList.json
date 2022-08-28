@@ -1,5 +1,5 @@
 {
-  "name": "RGP Default List",
+  "name": "Tres Leches Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -7,8 +7,8 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://assets.coingecko.com/coins/images/15837/small/A_qRYvB2_400x400.png",
-  "keywords": ["rigel", "default", "protocol"],
+  "logoURI": "https://tresleches.finance/wp-content/uploads/2021/12/cropped-android-chrome-192x192-1-65x48.png",
+  "keywords": ["tresleches", "default", "cake"],
   "tokens": [
 
     {
