@@ -15,7 +15,7 @@
       "name": "Tres Leches",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://bscscan.com/token/images/3LechesCake_32.png",
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png",
       "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74"
     },
     {
