@@ -1,5 +1,5 @@
 {
-    "name": "Tres Leches Unsupported List",
+    "name": "Pancake Unsupported List",
     "timestamp": "2021-01-05T20:47:02.923Z",
     "version": {
       "major": 1,
@@ -7,7 +7,7 @@
       "patch": 0
     },
     "tags": {},
-    "logoURI": "https://gateway.pinata.cloud/ipfs/QmVvhubEeHe7DE5FFGYcn5KFxkFeyTusatfQyRUp1bhjjE",
+    "logoURI": "ipfs://QmVvhubEeHe7DE5FFGYcn5KFxkFeyTusatfQyRUp1bhjjE",
     "keywords": ["pancake", "unsupported"],
     "tokens": []
   }
