@@ -3889,6 +3889,14 @@
         "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
       },
       {
+        "name": "Tres Leches",
+        "symbol": "3Leches",
+        "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
+      },
+      {
         "name": "ShibaWallet",
         "symbol": "SHWA",
         "address": "0x4A2940263acfd179dBc1C6B69A3392671ACCaf5B",
@@ -4343,6 +4351,14 @@
         "chainId": 97,
         "decimals": 18,
         "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+      },
+      {
+        "name": "Tres Leches",
+        "symbol": "3Leches",
+        "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+        "chainId": 97,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
       },
       {
         "name": "USDT Token",
