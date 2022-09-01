@@ -2,7 +2,13 @@
 
 
 
-Tres Leches Smartswap is a multinetwork decentralized exchainge (DEX) with extra features like auto trading of tokens at certain prices or time.
+Tres Leches Smartswap is a multinetwork decentralized exchainge (DEX).
+
+- Coming Soon
+- Auto Trade
+- Set Price
+
+
 
 ### Link
 
@@ -20,20 +26,34 @@ Smartswap of Tres Leches is available on https://swap.tresleches.finance
 | Polygon mainnet     | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://polygonscan.com/address/0x27387362a24b27129da9fb8e4b68a170b72c9e74) |
 | Phoenix             | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://phoenixplorer.com/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)    |
 | Dogechain           | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://explorer.dogechain.dog/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)   |
-| BSC Testnet         | :heavy_check_mark: Active | same                                                                                                  |
-| Ropsten             | :heavy_check_mark: Active | same                                                                                                   |
-| Polygon Mumbai      | :heavy_check_mark: Active | same                                                                                                 |
+| BSC Testnet         | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://testnet.bscscan.com/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)|
+| Ropsten             | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://ropsten.etherscan.io/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)|
+| Polygon Mumbai      | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://mumbai.polygonscan.com/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)|
 
-### Supported Swap Networks 
+### Supported Factory Networks 
 
-| Network             | Factory                                    | Router                                          |
-| ------------------- | -------------------------------------------| ----------------------------------------------- |
-| Binance Smart Chain | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e | [0x215703b6e914fB9BF9B13D6E027a040484c53A4E]    |
-| Polygon mainnet     | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e | [0x215703b6e914fB9BF9B13D6E027a040484c53A4E]    |
-| Phoenix             | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e | [0x215703b6e914fB9BF9B13D6E027a040484c53A4E]    |
-| Dogechain           | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e | [0x215703b6e914fB9BF9B13D6E027a040484c53A4E]    |
-| BSC Testnet         | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e | [0x215703b6e914fB9BF9B13D6E027a040484c53A4E]    |
-| Ropsten             | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e | [0x215703b6e914fB9BF9B13D6E027a040484c53A4E]    |
-| Polygon Mumbai      | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e | [0x215703b6e914fB9BF9B13D6E027a040484c53A4E]    |
+| Network             | Factory                                    |
+| ------------------- | -------------------------------------------| 
+| Binance Smart Chain | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e |
+| Polygon mainnet     | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e |
+| Phoenix             | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e |
+| Dogechain           | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e |
+| BSC Testnet         | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e |
+| Ropsten             | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e |
+| Polygon Mumbai      | 0x51cdBbed695a6179bbD97b6105Ef1907E61a403e |
+
+
+### Supported Router Networks 
+
+| Network             | Router                                     |
+| ------------------- | -------------------------------------------|
+| Binance Smart Chain |[0x215703b6e914fB9BF9B13D6E027a040484c53A4E](https://bscscan.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)     |
+| Polygon mainnet     |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://polygonscan.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)    |
+| Phoenix             |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://phoenixplorer.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889) |
+| Dogechain           |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://explorer.dogechain.dog/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)   |
+| BSC Testnet         |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://testnet.bscscan.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)    |
+| Ropsten             |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://ropsten.etherscan.io/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)   |
+| Polygon Mumbai      |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://mumbai.polygonscan.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)   |
+
 
 More Blockchains Coming Soon
