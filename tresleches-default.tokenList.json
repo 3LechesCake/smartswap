@@ -147,6 +147,14 @@
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
+    {
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
+    },
 
     {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
@@ -189,6 +197,15 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
+    },
+
+    {
       "name": "Wrapped Ether",
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "symbol": "WETH",
@@ -198,36 +215,36 @@
     },
 
     {
-      "name": "Tether USD",
-      "address": "0xa30b641533D2509089CeF6F097a5BFB62dF7BC8b",
-      "symbol": "USDT",
+      "name": "ZebroUSD",
+      "address": "0x6ea214917F28AD147E01201Cd88869332198D007",
+      "symbol": "ZUSD",
       "decimals": 6,
-      "chainId": 42261,
+      "chainId": 13381,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
     },
     {
-      "name": "Wrapped ROSE",
-      "address": "0x8E62F88FD28F95cE0dD0557c8419215b5599CE64",
-      "symbol": "WROSE",
+      "name": "Wrapped Phoenix",
+      "address": "0xcb186051DD62914B6dFc56c257823bfDA20DbEe6",
+      "symbol": "WPHX",
       "decimals": 18,
-      "chainId": 42261,
+      "chainId": 13381,
       "logoURI": "https://assets.coingecko.com/coins/images/13162/small/rose.png?1605772906"
     },
     {
-      "name": "Wrapped ROSE",
-      "address": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
-      "symbol": "WROSE",
+      "name": "Wrapped Doge",
+      "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
+      "symbol": "WDOGE",
       "decimals": 18,
-      "chainId": 42262,
+      "chainId": 2000,
       "logoURI": "https://assets.coingecko.com/coins/images/13162/small/rose.png?1605772906"
     },
     {
-      "name": "Tether USD",
-      "address": "0xdC19A122e268128B5eE20366299fc7b5b199C8e3",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 42262,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 2000,
+      "logoURI": "https://assets.coingecko.com/coins/images/13162/small/rose.png?1605772906"
     },
     
     {
@@ -245,6 +262,30 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
+    },
+    {
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
+    },
+    {
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
+    },
+    {
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 13381,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
     }
   ]
 }
