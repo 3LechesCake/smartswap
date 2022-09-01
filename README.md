@@ -17,8 +17,11 @@ Smartswap of Tres Leches is available on https://swap.tresleches.finance
 ### Tres Leches Token
 
 [Tres Leches Token](https://bscscan.com/address/0x27387362a24b27129da9fb8e4b68a170b72c9e74) is the governance and utility token of Rigel Protocol for all DApps of Tres Leches Finance
+Tres Leches Token is a mint and burn token, the only way to mint the token is either via a buy using BSC and Phoenix, your unable to mint using Dogechain at this point. Only way to mint to Dogechain is via a bridge.
+The token will be minted and burned as they are bridge to other blockchains.
 
-### Supported Networks
+
+### Supported Token Networks
 
 | Network             | DEX Status                | Tres Leches Address                                                                                                    |
 | ------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +50,7 @@ Smartswap of Tres Leches is available on https://swap.tresleches.finance
 
 | Network             | Router                                     |
 | ------------------- | -------------------------------------------|
-| Binance Smart Chain |[0x215703b6e914fB9BF9B13D6E027a040484c53A4E](https://bscscan.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)     |
+| Binance Smart Chain |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://bscscan.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)     |
 | Polygon mainnet     |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://polygonscan.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)    |
 | Phoenix             |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://phoenixplorer.com/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889) |
 | Dogechain           |[0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889](https://explorer.dogechain.dog/address/0x4169Db906fcBFB8b12DbD20d98850Aee05B7D889)   |
