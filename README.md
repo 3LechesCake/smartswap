@@ -26,12 +26,12 @@ The token will be minted and burned as they are bridge to other blockchains.
 | Network             | DEX Status                | Tres Leches Address                                                                                                    |
 | ------------------- | ------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | Binance Smart Chain | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://bscscan.com/address/0x27387362a24b27129da9fb8e4b68a170b72c9e74)     |
-| Polygon mainnet     | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://polygonscan.com/address/0x27387362a24b27129da9fb8e4b68a170b72c9e74) |
+| Polygon mainnet     | :heavy_check_mark: Active | [0x00525557A8cA7E01c633AE18925AE7Ae57Cb7d61](https://polygonscan.com/address/0x00525557A8cA7E01c633AE18925AE7Ae57Cb7d61) |
 | Phoenix             | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://phoenixplorer.com/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)    |
-| Dogechain           | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://explorer.dogechain.dog/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)   |
+| Dogechain           | :heavy_check_mark: Active | [0x9bc11331Bf27D3ebAf784a83B2edC25094086728](https://explorer.dogechain.dog/address/0x9bc11331Bf27D3ebAf784a83B2edC25094086728)   |
 | BSC Testnet         | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://testnet.bscscan.com/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)|
 | Ropsten             | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://ropsten.etherscan.io/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)|
-| Polygon Mumbai      | :heavy_check_mark: Active | [0x27387362A24B27129da9Fb8e4B68a170B72C9e74](https://mumbai.polygonscan.com/address/0x27387362A24B27129da9Fb8e4B68a170B72C9e74)|
+| Polygon Mumbai      | :heavy_check_mark: Active | [0x00525557A8cA7E01c633AE18925AE7Ae57Cb7d61](https://mumbai.polygonscan.com/address/0x00525557A8cA7E01c633AE18925AE7Ae57Cb7d61)|
 
 ### Supported Factory Networks 
 
