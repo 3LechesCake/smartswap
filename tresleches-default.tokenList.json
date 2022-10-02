@@ -240,13 +240,44 @@
     },
     {
       "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "address": "0x9bc11331Bf27D3ebAf784a83B2edC25094086728",
       "symbol": "3Leches",
       "decimals": 18,
       "chainId": 2000,
       "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png"
     },
-    
+    {
+      "name": "Wrapped Tres Leches",
+      "address": "0xeA619c05eBc695c482D1E691eE2342Cda63bCd2a",
+      "symbol": "W3LECHES",
+      "decimals": 18,
+      "chainId": 6066,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/Blockchain/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 6066,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/maintoken/favicon-32x32.png"
+    },
+    {
+      "name": "Wrapped Tres Leches",
+      "address": "0xeA619c05eBc695c482D1E691eE2342Cda63bCd2a",
+      "symbol": "W3LECHES",
+      "decimals": 18,
+      "chainId": 6065,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/Blockchain/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres Leches",
+      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "symbol": "3Leches",
+      "decimals": 18,
+      "chainId": 6065,
+      "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/maintoken/favicon-32x32.png"
+    },
     {
       "name": "DAI Token",
       "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
@@ -273,7 +304,7 @@
     },
     {
       "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
+      "address": "0x9bc11331Bf27D3ebAf784a83B2edC25094086728",
       "symbol": "3Leches",
       "decimals": 18,
       "chainId": 2000,
