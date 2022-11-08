@@ -1,5 +1,5 @@
 {
-  "name": "Tres Leches Default List",
+  "name": "TresDefault List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -10,7 +10,6 @@
   "logoURI": "https://raw.githubusercontent.com/3LechesCake/3Leches/master/Logos/bscscan.com/3leches.png",
   "keywords": ["tres", "default", "leches"],
   "tokens": [
-
     {
       "symbol": "3Leches",
       "name": "Tres Leches",
