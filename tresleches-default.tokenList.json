@@ -7,24 +7,16 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png",
+  "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/Blockchain/favicon-32x32.png,
   "keywords": ["tres", "default", "leches"],
   "tokens": [
-    {
-      "symbol": "3Leches",
-      "name": "Tres Leches",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74"
-    },
-    {
-      "symbol": "3LechesCake",
+      {
       "name": "Tres Leches Cake",
+      "symbol": "3LechesCake",
+      "address": "0x97B846DB4E521A07185d3da4408a12897316b618",
       "chainId": 56,
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3lechesCake.png",
-      "address": "0x97B846DB4E521A07185d3da4408a12897316b618"
+      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3lechesCake.png"
     },
     {
       "name": "WBNB Token",
@@ -254,28 +246,12 @@
       "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/Blockchain/wrapped-32x32.png"
     },
     {
-      "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 6066,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/maintoken/favicon-32x32.png"
-    },
-    {
       "name": "Wrapped Tres Leches",
       "address": "0x7ECBfAfFaA55057561ea5CaAb799086F1E0450a6",
       "symbol": "WTRES",
       "decimals": 18,
       "chainId": 6065,
       "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/Blockchain/wrapped-32x32.png"
-    },
-    {
-      "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 6065,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/maintoken/favicon-32x32.png"
     },
     {
       "name": "DAI Token",
