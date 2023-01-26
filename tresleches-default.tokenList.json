@@ -1,5 +1,5 @@
 {
-  "name": "TresDefault List",
+  "name": "Tres Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -49,14 +49,6 @@
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://bscscan.com/token/images/busd_32.png"
-    },
-    {
-      "name": "Tres Leches",
-      "symbol": "3Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
     },
     {
       "name": "USDT Token",
@@ -139,15 +131,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
-      "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
-    },
-
-    {
       "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 1,
       "name": "Wrapped Ether",
@@ -188,15 +171,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
-      "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
-    },
-
-    {
       "name": "Wrapped Ether",
       "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "symbol": "WETH",
@@ -204,7 +178,6 @@
       "chainId": 4,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
-
     {
       "name": "ZebroUSD",
       "address": "0x6ea214917F28AD147E01201Cd88869332198D007",
@@ -230,15 +203,7 @@
       "logoURI": "https://assets.coingecko.com/coins/images/13162/small/rose.png?1605772906"
     },
     {
-      "name": "Tres Leches",
-      "address": "0x9bc11331Bf27D3ebAf784a83B2edC25094086728",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 2000,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
-    },
-    {
-      "name": "Wrapped Tres Leches",
+      "name": "Wrapped Tres",
       "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
       "symbol": "WTRES",
       "decimals": 18,
@@ -246,7 +211,7 @@
       "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/Blockchain/wrapped-32x32.png"
     },
     {
-      "name": "Wrapped Tres Leches",
+      "name": "Wrapped Tres",
       "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
       "symbol": "WTRES",
       "decimals": 18,
@@ -268,30 +233,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://polygonscan.com/token/images/mcdDai_32.png"
-    },
-    {
-      "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
-    },
-    {
-      "name": "Tres Leches",
-      "address": "0x9bc11331Bf27D3ebAf784a83B2edC25094086728",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 2000,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
-    },
-    {
-      "name": "Tres Leches",
-      "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
-      "symbol": "3Leches",
-      "decimals": 18,
-      "chainId": 13381,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
     }
   ]
 }
