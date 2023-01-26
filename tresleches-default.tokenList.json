@@ -7,10 +7,10 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/Blockchain/favicon-32x32.png,
+  "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/Blockchain/favicon-32x32.png",
   "keywords": ["tres", "default", "leches"],
   "tokens": [
-      {
+    {
       "name": "Tres Leches Cake",
       "symbol": "3LechesCake",
       "address": "0x97B846DB4E521A07185d3da4408a12897316b618",
