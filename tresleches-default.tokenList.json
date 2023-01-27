@@ -67,22 +67,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/info/logo.png"
     },
     {
-      "name": "Wrapped Matic",
-      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "symbol": "WMATIC",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/polygon.jpg"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-      "symbol": "USDT",
-      "decimals": 6,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
-    },
-    {
       "name": "USD Coin",
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "symbol": "USDC",
@@ -97,22 +81,6 @@
       "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
-    },
-    {
-      "name": "Dreamr Platform Token",
-      "address": "0x955CE23f20217a6Aa205620b40EdE4C9E83d325f",
-      "symbol": "DMR",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": ""
-    },
-    {
-      "name": "Dreamr Platform Token",
-      "address": "0x4DDE4C82c47325d18A79309d0ac0d23a3e831867",
-      "symbol": "DMR",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": ""
     },
     {
       "name": "USDCToken",
