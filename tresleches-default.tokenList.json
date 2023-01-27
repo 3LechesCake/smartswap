@@ -213,14 +213,7 @@
     },
     {
       "name": "RigelToken",
-      "address": "    {
-      "name": "RigelToken",
-      "address": "0x80278a0Cf536e568A76425B67Fb3931Dca21535c",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
-    },",
+      "address": "0x6253a1C50ccB2cF1D1fA0c0DEE3906873456e341",
       "symbol": "RGP",
       "decimals": 18,
       "chainId": 6066,
@@ -228,14 +221,7 @@
     },
     {
       "name": "RigelToken",
-      "address": "    {
-      "name": "RigelToken",
-      "address": "0x80278a0Cf536e568A76425B67Fb3931Dca21535c",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
-    },",
+      "address": "0x6253a1C50ccB2cF1D1fA0c0DEE3906873456e341",
       "symbol": "RGP",
       "decimals": 18,
       "chainId": 6065,
