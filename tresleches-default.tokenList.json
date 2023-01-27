@@ -212,6 +212,36 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
+      "name": "RigelToken",
+      "address": "    {
+      "name": "RigelToken",
+      "address": "0x80278a0Cf536e568A76425B67Fb3931Dca21535c",
+      "symbol": "RGP",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+    },",
+      "symbol": "RGP",
+      "decimals": 18,
+      "chainId": 6066,
+      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+    },
+    {
+      "name": "RigelToken",
+      "address": "    {
+      "name": "RigelToken",
+      "address": "0x80278a0Cf536e568A76425B67Fb3931Dca21535c",
+      "symbol": "RGP",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+    },",
+      "symbol": "RGP",
+      "decimals": 18,
+      "chainId": 6065,
+      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+    },
+    {
       "name": "Wrapped Ether",
       "address": "0x492Df17f202e36525151Ce7BcD49d5637Dc10659",
       "symbol": "WETH",
