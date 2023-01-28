@@ -201,7 +201,7 @@
       "symbol": "WTRES",
       "decimals": 18,
       "chainId": 6065,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/treslecheschain/logos/master/png/wrapped-32x32.png"
     },
     {
       "name": "Wrapped Tres",
@@ -209,23 +209,7 @@
       "symbol": "WTRES",
       "decimals": 18,
       "chainId": 6066,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
-    },
-    {
-      "name": "RigelToken",
-      "address": "0x6253a1C50ccB2cF1D1fA0c0DEE3906873456e341",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 6066,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
-    },
-    {
-      "name": "RigelToken",
-      "address": "0x6253a1C50ccB2cF1D1fA0c0DEE3906873456e341",
-      "symbol": "RGP",
-      "decimals": 18,
-      "chainId": 6065,
-      "logoURI": "https://bscscan.com/token/images/rigelprotocol_32.png"
+      "logoURI": "https://raw.githubusercontent.com/treslecheschain/logos/master/png/wrapped-32x32.png"
     },
     {
       "name": "Wrapped Ether",
