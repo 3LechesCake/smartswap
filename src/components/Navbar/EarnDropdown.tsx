@@ -1,0 +1,82 @@
+import React from "react";
+import { NavLink, useLocation } from "react-router-dom";
+import {
+  Menu,
+  MenuButton,
+  MenuItem,
+  MenuList,
+  Button,
+  useColorModeValue,
+} from "@chakra-ui/react";
+import { ChevronDownIcon } from "@chakra-ui/icons";
+import { useActiveWeb3React } from "../../utils/hooks/useActiveWeb3React";
+import { SupportedChainId } from "../../constants/chains";
+export const Nav = ({
+  to,
+  label,
+  active,
+}: {
+  to: string;
+  label: string;
+  active?: boolean;
+}) => {
+  const mobileNavColor = useColorModeValue("#FFFFFF", "#15202B");
+  return (
+    <NavLink
+      to={to}
+      activeStyle={{
+        color: "#319EF6",
+      }}
+      color={active ? "#319EF6" : mobileNavColor}
+      style={active ? { color: "#319EF6" } : { color: "" }}
+    >
+      {label}
+    </NavLink>
+  );
+};
+
+function EarnDropdown() {
+  const location = useLocation();
+
+  const { chainId } = useActiveWeb3React();
+  const name = location.pathname;
+  const { search } = useLocation();
+
+  const useName = () => {
+    if (name == "/farm" || name == "/pool" || name == "/add") {
+      return name === "/add" ? "pool" : name.substring(1).split("-")[0];
+    } else {
+      return "Liquidity";
+    }
+  };
+
+  return (
+    <Menu>
+      <MenuButton
+        variant="ghost"
+        as={Button}
+        transition="all 0.2s"
+        rightIcon={<ChevronDownIcon />}
+        fontWeight={200}
+        _focus={{ color: "#319EF6" }}
+        fontSize="14px"
+        padding="5px 6px"
+        textTransform={"capitalize"}
+      >
+        {useName()}
+      </MenuButton>
+      <MenuList>
+        <MenuItem _focus={{ color: "#319EF6" }}>
+          <Nav
+            label="Add Liquidity"
+            to={`/pool${search}`}
+            active={name === "/add" || name === "/remove"}
+          />
+        </MenuItem>
+
+      </MenuList>
+    </Menu>
+  );
+}
+
+export default EarnDropdown;
