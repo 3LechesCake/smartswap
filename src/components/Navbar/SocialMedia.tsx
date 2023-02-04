@@ -35,7 +35,7 @@ const SocialMediaLinks = () => {
       <MenuList>
         <a
           target="_blank"
-          href="https://www.linkedin.com/company/treslecheschain" rel="noreferrer"
+          href="https://www.linkedin.com/company/TresChain" rel="noreferrer"
         >
           <MenuItem>Linkedin</MenuItem>
         </a>

@@ -3,8 +3,8 @@ const NFTX_LIST = 'https://nftx.ethereumdb.com/v2/tokenlist/';
 const COMPOUND_LIST = 'https://raw.githubusercontent.com/compound-finance/token-list/master/compound.tokenlist.json';
 const GEMINI_LIST = 'https://www.gemini.com/uniswap/manifest.json';
 export const OPTIMISM_LIST = 'https://static.optimism.io/optimism.tokenlist.json';
-export const MAIN_LIST = "https://raw.githubusercontent.com/treslecheschain/smartswap/master/tresleches-main-tokenlist.json";
-export const DEFAULT_LIST ="https://raw.githubusercontent.com/treslecheschain/smartswap/master/tresleches-default.tokenList.json";
+export const MAIN_LIST = "https://raw.githubusercontent.com/treschain/smartswap/master/tresleches-main-tokenlist.json";
+export const DEFAULT_LIST ="https://raw.githubusercontent.com/treschain/smartswap/master/tresleches-default.tokenList.json";
 export const UNSUPPORTED_LIST_URLS: string[] = [];
 export const CMC = 'https://tokens.pancakeswap.finance/cmc.json';
 

@@ -178,7 +178,7 @@ setMinNav2(!minNav2)
            </li>
 
            <li> 
-             <a href="https://treslechescaketoken.medium.com" target="_blank">
+             <a href="https://treschain.medium.com" target="_blank">
              <Flex>Blog <img src={External} style={{marginLeft:"6px"}} />
              </Flex>
                </a>

@@ -1,5 +1,5 @@
 {
-  "name": "RGP Default List",
+  "name": "TRES Default List",
   "timestamp": "2021-05-06T00:00:00Z",
   "version": {
     "major": 3,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://assets.coingecko.com/coins/images/15837/small/A_qRYvB2_400x400.png",
+  "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/200x200.png",
   "keywords": ["rigel", "default","protocol"],
   "tokens": [
     {
@@ -201,7 +201,7 @@
       "symbol": "WTRES",
       "decimals": 18,
       "chainId": 6065,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/logos/master/png/wrapped-32x32.png"
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
     },
     {
       "name": "Wrapped Tres",
@@ -209,7 +209,7 @@
       "symbol": "WTRES",
       "decimals": 18,
       "chainId": 6066,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/logos/master/png/wrapped-32x32.png"
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
     },
     {
       "name": "Wrapped Ether",
@@ -226,6 +226,86 @@
       "decimals": 18,
       "chainId": 4,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },    
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 25,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 2000,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 13381,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
+    },
+    {
+      "name": "Tres",
+      "address": "0x66bc84b4270cA0F056E27e5cD77B2401522191c6",
+      "symbol": "TRES",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/treschain/logos/master/png/wrapped-32x32.png"
     }
   ]
 }

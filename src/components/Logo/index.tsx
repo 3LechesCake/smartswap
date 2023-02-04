@@ -32,7 +32,7 @@ const Logo: FC<LogoProps> = ({ srcs, width, height,alt='',squared, mr, mb, ...re
         if (src) BAD_SRCS[src] = true;
         refresh((i) => i + 1)
       }}
-      borderRadius={squared ? width : 0}   src={src || 'https://raw.githubusercontent.com/treslecheschain/3leches/master/Logos/maintoken/favicon-32x32.png'} />
+      borderRadius={squared ? width : 0}   src={src || 'https://raw.githubusercontent.com/treschain/3leches/master/Logos/maintoken/favicon-32x32.png'} />
     </div>
   )
 };

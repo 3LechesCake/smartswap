@@ -1,5 +1,5 @@
 {
-  "name": "Smartswap Menu",
+  "name": "Tres Menu",
   "timestamp": "2021-11-25T14:16:42.044Z",
   "version": {
     "major": 2,
@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png",
+  "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png",
   "keywords": ["Smartswap", "default"],
   "tokens": [
     {
@@ -3869,7 +3869,7 @@
       "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
+      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png"
     },
     {
       "name": "ShibaWallet",
@@ -4326,7 +4326,7 @@
       "address": "0x27387362A24B27129da9Fb8e4B68a170B72C9e74",
       "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/treslecheschain/3Leches/master/Logos/bscscan.com/3leches.png"
+      "logoURI": "https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png"
     },
     {
       "name": "USDT Token",

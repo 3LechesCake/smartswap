@@ -2,7 +2,7 @@
 
 
 
-Tres Leches Smartswap is a multinetwork decentralized exchainge (DEX).
+Tres Leches Smartswap is a multinetwork decentralized exchange (DEX).
 
 - Coming Soon
 - Auto Trade
@@ -12,7 +12,7 @@ Tres Leches Smartswap is a multinetwork decentralized exchainge (DEX).
 
 ### Link
 
-Smartswap of Tres Leches is available on https://swap.tresleches.finance
+Smartswap of Tres Leches is available on https://swap.treschain.io
 
 ### Tres Leches Token
 

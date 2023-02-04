@@ -107,8 +107,8 @@ const CurrencyLogo: FunctionComponent<CurrencyLogoProps> = ({
       ) {
         return [LOGO[currency.chainId], unknown];
       } else if (currency.isToken && currency.symbol === "TRES") {
-        return ["https://raw.githubusercontent.com/treslecheschain/3leches/master/Logos/bscscan.com/3leches.png"];
-      } else if (currency.isToken && currency.symbol === "TRESCAKE") {
+        return ["https://raw.githubusercontent.com/treschain/3leches/master/Logos/bscscan.com/3leches.png"];
+      } else if (currency.isToken && currency.symbol === "WTRES") {
         return ["https://bscscan.com/token/images/treschain_32.png"];
       } else if (currency.logoURI) {
         return [currency.logoURI]
